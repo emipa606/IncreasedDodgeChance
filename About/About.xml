@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Increased Dodge Chance (Continued)</name>
+  <packageId>Mlie.IncreasedDodgeChance</packageId>
+  <author>ThatOddGuy</author>
+  <url>https://github.com/emipa606/IncreasedDodgeChance</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of ThatOddGuys mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=942189493
+
+- Removed the vanilla-overwrites and simplified the patch
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/IncreasedDodgeChance][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1][b]Description[/b][/h1]
+
+This mod increases a pawn's chance to dodge melee attacks based on his/her health and melee skill, making it a more valuable ability for higher level pawns. Pawns can now have higher melee dodge chances, this makes engagements last longer between good fighters as they should be able to consistently dodge attacks, but as they get injured this chance will go down.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=947191378]Light version of the mod[/url]
+
+[h1][b]Changes[/b][/h1]
+
+- Consciousness is now a factor when determining dodge chances
+
+- Tweaked the "Post-processed curved" modifier
+
+[h1][b]Compatibility[/b][/h1]
+This is a very small mod and uses the new patching feature so it should be compatible with anything!
+
+Can also be safely added and removed from existing save files. 
+
+[h1][b]Bugs[/b][/h1]
+This is my first mod and my way of getting familiar with patching and xpathing, if you notice any issues please let me know.
+
+[h1][b]My other mods: [/b][/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=942616945]A17 Smoke Grenades[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=944884097]A17 Smoke Mortar[/url]</description>
+</ModMetaData>
