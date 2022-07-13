@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Increased Dodge Chance (Continued)</name>
   <packageId>Mlie.IncreasedDodgeChance</packageId>
@@ -12,25 +12,29 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of ThatOddGuys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=942189493
 
 - Removed the vanilla-overwrites and simplified the patch
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/IncreasedDodgeChance][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1][b]Description[/b][/h1]
 
-This mod increases a pawn&apos;s chance to dodge melee attacks based on his/her health and melee skill, making it a more valuable ability for higher level pawns. Pawns can now have higher melee dodge chances, this makes engagements last longer between good fighters as they should be able to consistently dodge attacks, but as they get injured this chance will go down.
+This mod increases a pawn's chance to dodge melee attacks based on his/her health and melee skill, making it a more valuable ability for higher level pawns. Pawns can now have higher melee dodge chances, this makes engagements last longer between good fighters as they should be able to consistently dodge attacks, but as they get injured this chance will go down.
 
 [url=http://steamcommunity.com/sharedfiles/filedetails/?id=947191378]Light version of the mod[/url]
 
@@ -38,7 +42,7 @@ This mod increases a pawn&apos;s chance to dodge melee attacks based on his/her 
 
 - Consciousness is now a factor when determining dodge chances
 
-- Tweaked the &quot;Post-processed curved&quot; modifier
+- Tweaked the "Post-processed curved" modifier
 
 [h1][b]Compatibility[/b][/h1]
 This is a very small mod and uses the new patching feature so it should be compatible with anything!
@@ -52,7 +56,7 @@ This is my first mod and my way of getting familiar with patching and xpathing, 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=942616945]A17 Smoke Grenades[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=944884097]A17 Smoke Mortar[/url]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -63,4 +67,3 @@ This is my first mod and my way of getting familiar with patching and xpathing, 
 [/list]
 </description>
 </ModMetaData>
-
