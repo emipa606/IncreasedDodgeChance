@@ -1,21 +1,21 @@
 # IncreasedDodgeChance
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of ThatOddGuys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=942189493
 
 - Removed the vanilla-overwrites and simplified the patch
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # **Description**
 
 
-This mod increases a pawn&apos;s chance to dodge melee attacks based on his/her health and melee skill, making it a more valuable ability for higher level pawns. Pawns can now have higher melee dodge chances, this makes engagements last longer between good fighters as they should be able to consistently dodge attacks, but as they get injured this chance will go down.
+This mod increases a pawn's chance to dodge melee attacks based on his/her health and melee skill, making it a more valuable ability for higher level pawns. Pawns can now have higher melee dodge chances, this makes engagements last longer between good fighters as they should be able to consistently dodge attacks, but as they get injured this chance will go down.
 
 http://steamcommunity.com/sharedfiles/filedetails/?id=947191378]Light version of the mod
 
@@ -24,7 +24,7 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=947191378]Light version of
 
 - Consciousness is now a factor when determining dodge chances
 
-- Tweaked the &quot;Post-processed curved&quot; modifier
+- Tweaked the "Post-processed curved" modifier
 
 # **Compatibility**
 
@@ -41,7 +41,7 @@ This is my first mod and my way of getting familiar with patching and xpathing, 
 https://steamcommunity.com/sharedfiles/filedetails/?id=942616945]A17 Smoke Grenades
 https://steamcommunity.com/sharedfiles/filedetails/?id=944884097]A17 Smoke Mortar
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -51,6 +51,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=944884097]A17 Smoke Morta
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
